@@ -1,0 +1,3 @@
+[submodule "Language-Detection-Code"]
+	path = Language-Detection-Code
+	url = https://github.com/efr-en/Language-Detection-Code
